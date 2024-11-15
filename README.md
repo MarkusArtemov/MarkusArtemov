@@ -1,19 +1,28 @@
-## Hi there 👋
+# 👋 Hi, ich bin Markus Artemov!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkusArtemov&hide=stars)
+Willkommen auf meinem GitHub-Profil!  
+Derzeit lerne ich **Spring Boot**, um moderne Backend-Anwendungen zu entwickeln. 🚀  
 
+---
 
-<!--
-**MarkusArtemov/MarkusArtemov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Meine Statistiken
 
-Here are some ideas to get you started:
+![GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=MarkusArtemov&show_icons=true&count_private=true&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Meistgenutzte Sprachen
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusArtemov&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🌱 Was ich gerade lerne
+
+- **Spring Boot**: Ein leistungsstarkes Framework für die Entwicklung von Java-basierten Backend-Anwendungen.
+- **Microservices-Architektur**: Mit Spring Boot Microservices bauen und verstehen.
+- **Docker**: Containerisierung meiner Anwendungen, um sie effizienter bereitzustellen.
+
+---
+
+💬 Wenn du dich auch für Spring Boot interessierst oder Fragen hast, schreib mir gerne! 😊
