@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-![ClipWindowsGIF](https://github.com/user-attachments/assets/d5136115-e972-4c6f-befc-69c6d3ff3ba3)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkusArtemov&hide=stars)
 
 
 <!--
